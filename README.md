@@ -38,7 +38,9 @@ Développement JakartaEE : Architecture N-Tiers et Persistance
 ##  Structure du projet
 
 
-![Uploading image.png…]()
+<img width="1276" height="875" alt="image" src="https://github.com/user-attachments/assets/0df2a5d9-a035-4525-9e37-4123c85025a7" />
+
+<img width="1266" height="858" alt="image" src="https://github.com/user-attachments/assets/22912ebc-5abe-4cc9-9117-a14f33e8073b" />
 
 
 
@@ -71,6 +73,12 @@ Lancer le serveur.
 ### UserListServlet.js & ProductListServlet.js
 #### Contrôleurs récupérant les données via les DAOs et les transmettant aux pages JSP via request.setAttribute.
 ## Aperçu des fonctionnalités
+
+![WhatsApp Image 2026-03-24 at 15 09 25](https://github.com/user-attachments/assets/910bf125-82f5-42fa-8dd8-7d5333d06f69)
+
+![WhatsApp Image 2026-03-24 at 15 14 10](https://github.com/user-attachments/assets/c80363f4-8220-4cda-a783-ff55f8e8239e)
+
+
 #### - Tableau de bord : Accueil avec accès rapide aux modules.
 #### - Gestion des Utilisateurs : CRUD complet (Création, Affichage, Modification, Suppression).
 #### - Gestion des Produits :
